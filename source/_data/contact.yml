@@ -1,0 +1,9 @@
+- title: github
+  icon: icon-github
+  link: https://github.com/EdurtIO
+- title: email
+  icon: icon-email
+  link: mailto:service@edurt.io
+- title: rss
+  icon: icon-rss
+  link: /atom.xml

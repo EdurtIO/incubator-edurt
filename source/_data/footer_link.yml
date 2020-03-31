@@ -1,0 +1,11 @@
+friend_links:
+  - name: 轻课堂
+    desc: 专业的,靠谱的在线教学课堂,在线教育课堂
+    link: http://www.edurt.com/
+  - name: qianmoQ
+    desc: 专注于技术分享的垂直博客
+    link: http://qianmoq.com/
+build_tools:
+  - name: Java
+    desc: Java是一门面向对象编程语言，不仅吸收了C++语言的各种优点，还摒弃了C++里难以理解的多继承、指针等概念，因此Java语言具有功能强大和简单易用两个特征。
+    link: https://www.java.com/
