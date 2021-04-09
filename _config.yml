@@ -1,11 +1,11 @@
-title: Edurt开源首页
+title: Edurt Open Source
 subtitle: 'EdurtIO开源项目官方站点'
 description: '轻课堂(http://edurt.com)开源项目官方站点，致力打造友好的开源系统'
 keywords: 开源项目
 language: zh-cn
 timezone: ''
 
-url: https://edurt.io
+url: https://www.edurt.io
 root: /
 permalink: :year/:month/:day/:title.html
 permalink_defaults:
@@ -68,7 +68,7 @@ theme: hexo-theme-skapp
 
 deploy:
   type: git
-  repository: https://github.com/EdurtIO/website
+  repository: https://github.com/EdurtIO/www.edurt.io.git
   branch: master
 
 # 主题配置
