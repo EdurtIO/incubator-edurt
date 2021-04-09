@@ -68,7 +68,7 @@ theme: hexo-theme-skapp
 
 deploy:
   type: git
-  repository: https://github.com/EdurtIO/www.edurt.io.git
+  repository: git@github.com:EdurtIO/www.edurt.io.git
   branch: master
 
 # 主题配置
